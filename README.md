@@ -11,7 +11,7 @@
 
 # Registered Course List
 | Course Code | Course Title | Credit | Section | Teacher
-| --- |
+| ----------- | ------------ | ------ | ------- | -------
 | SE 221 | Object Oriented Design | 3  | | MR.S A M Motiur Rahman
 | SE 222 | Computer Architecture | 3 | | MS. Raihana Zannat
 | SE 223 | Database Systems | 3 | | Mr. Md. Mushfiqur Rahman
