@@ -9,15 +9,12 @@
 | Wednesday | | | | Object Oriented Design |
 | Thursday | | | |Object Oriented Design |
 
----
-- **SE-221 Object Oriented Design (MR.S A M Motiur Rahman)**
----
-- **SE-222 Computer Architecture (MS. Raihana Zannat)**
----
-- **SE-223 Database Systems (Mr. Md. Mushfiqur Rahman)**
----
-- **SE-224 Database System lab (Mr. Farhan Anan Hmu)**
----
-- **SE-532 Introduction to Robotics (Mr. Md. Hafizul Imran)**
----
- 
+# Registered Course List
+| Course Code | Course Title | Credit | Section | Teacher
+| --- |
+| SE 221 | Object Oriented Design | 3  | | MR.S A M Motiur Rahman
+| SE 222 | Computer Architecture | 3 | | MS. Raihana Zannat
+| SE 223 | Database Systems | 3 | | Mr. Md. Mushfiqur Rahman
+| SE 224 | Database Systems Lab | 1 | | Mr. Farhan Anan Hmu
+| SE 532 | Introduction to Robotics | 3 | | Mr. Md. Hafizul Imran
+
