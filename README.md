@@ -7,5 +7,5 @@
 | Monday | - | Computer Arcitecture | |
 | Tuesday | Text |
 | Wednesday | Text |
-| Thursday | Text |
+| Thursday | Text |||Object Oriented Design |
  
