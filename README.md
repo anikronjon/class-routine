@@ -7,7 +7,7 @@
 | Monday      |                   | Computer Architecture |             |                        |                 |
 | Tuesday     |                   |             |                       |                        |                 |
 | Wednesday   |                   |             |                       | Object Oriented Design |                 |
-| Thursday    |                   |             |                       | Object Oriented Design |                 |
+| Thursday    | Database Systems  |             |                       | Object Oriented Design |                 |
 
 
 # Registered Course List
