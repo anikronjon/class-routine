@@ -5,8 +5,8 @@
 | Day         |  10-11:30            | 11:30-1:00  | 1:00-2:30             |        2:30-4:00       |    4:00-5:30    |
 | ----------- | -------------------- | ----------- | --------------------- | ---------------------- | --------------- |
 | Saturday    |                 | Database Systems |                       | Database System lab    |                 |
-| Sunday      |                 | Database Systems | Computer Architecture |                        |                 |
-| Monday      |                      | Computer Architecture |             |                        |                 |
+| Sunday      |                 | Database Systems |                       |                        | Computer Architecture
+| Monday      |                      |             |                       |                        | Computer Architecture
 | Tuesday     |                      |             |                       |                        |                 |
 | Wednesday   |                      |             |                       | Object Oriented Design |                 |
 | Thursday    | Database Systems Lab |             |                       | Object Oriented Design | Robotix         |
