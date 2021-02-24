@@ -8,7 +8,7 @@
 | Sunday      |                 | Database Systems |                       |                        | Computer Architecture
 | Monday      |                      |             |                       |                        | Computer Architecture
 | Tuesday     |                      |             |                       |                        |                 |
-| Wednesday   |                      |             |                       | Object Oriented Design |                 |
+| Wednesday   |                      |             |                       |                        |  Object Oriented Design
 | Thursday    | Database Systems Lab |             |                       | Object Oriented Design | Robotix         |
 
 
