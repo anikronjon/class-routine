@@ -23,3 +23,8 @@
 <li>Linode</li>
 <li>Digital Ocean</li>
 <li>Heroku</li>
+
+<h3>Languages</h3>
+<li>Python</li>
+<li>Java</li>
+<li>Dart</li>
