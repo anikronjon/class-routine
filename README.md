@@ -16,3 +16,9 @@
 - So that's why you can write HTML code in markdown file. Like so
 <h2>It's Aweasome, I can write code in HTML</h2>
 <p>It's a good thing to me.</p>
+
+<h3>Cloud Providers</h3>
+<li>AWS</li>
+<li>Azure</li>
+<li>Linode</li>
+<li>Digital Ocean</li>
