@@ -23,4 +23,3 @@
 <li>Linode</li>
 <li>Digital Ocean</li>
 <li>Heroku</li>
-<li>Heroku</li>
